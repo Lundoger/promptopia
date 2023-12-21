@@ -7,4 +7,4 @@ Promptopia is an open-source AI prompting tool for the modern word to discover, 
 - Tailwind
 - MongoDB & mongoose
 # Preview:
-[Promptopia](https://promptopia-lundogers-projects.vercel.app/)
+[Promptopia](https://promptopia-lundoger.vercel.app/)
